@@ -2,3 +2,5 @@ venv/
 chessAI/db.sqlite3
 **/__pycache__/
 **/root/
+**/migrations/
+**/__init__.py
